@@ -13,6 +13,6 @@ CKEDITOR.editorConfig = function( config ) {
 	// config.extraPlugins = 'lineutils';
 	//config.extraPlugins = 'notificationaggregator';
 	// config.extraPlugins = 'notification';
-	config.embed_provider = 'https://www.iframe.ly/api/oembed?url={url}&callback={callback}';
+	config.embed_provider = 'https://iframe.ly/api/oembed?url={url}&callback={callback}';
  
 };
