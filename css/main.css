@@ -65,7 +65,7 @@ textarea {
 }
 .simple-marquee-container {
 	width: 100%;
-	background: darkgrey;
+	background: black;
 	float: left;
 	display: inline-block;
 	overflow: hidden;
