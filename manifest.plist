@@ -12,6 +12,6 @@
 <key>url</key> <string>https://tomfyles-bigjump.github.io/TeamShout.ipa</string>
 </dict> </array>
 <key>metadata</key> <dict>
-<key>bundle-identifier</key> <string>com.bigjump.teamshoutapp</string> <key>bundle-version</key> <string>1.0.78</string> <key>kind</key> <string>software</string> <key>title</key> <string>TestShout</string>
+<key>bundle-identifier</key> <string>com.bigjump.teamshoutapp</string> <key>bundle-version</key> <string>1.0.78</string> <key>kind</key> <string>software</string> <key>title</key> <string>TeamShout</string>
 </dict> </dict>
 </array> </dict> </plist>
